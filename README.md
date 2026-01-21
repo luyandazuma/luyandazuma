@@ -51,7 +51,8 @@ AI-powered platform for CV evaluation and career recommendation.
 ---
 
 ## 🌐 Quick links
- • [LinkedIn](www.linkedin.com/in/luyandazuma842775)
+ • [LinkedIn](https://www.linkedin.com/in/luyandazuma842775)
+ • [Personal Porfolio](https://portfolio-lsz.netlify.app/)
 
 ---
 
