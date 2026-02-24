@@ -27,15 +27,15 @@
 
 ## 🔧 Featured projects
 ## [AWS-Online-Retail-Data-Lake](https://github.com/luyandazuma/aws-online-retail-datalake)
-End-to-end, serverless Data Lake built on AWS, designed to process and analyze global retail transaction data. Engineered with a business-first mindset, the architecture focuses on resource optimization, automated data quality checks, and delivering actionable executive insights.
-**Tech:**
+End-to-end, serverless Data Lake built on AWS, designed to process and analyze global retail transaction data. Engineered with a business-first mindset, the architecture focuses on resource optimization, automated data quality checks, and delivering actionable executive insights. <br>
+**Tech:** <br>
 * **Cloud Infrastructure:** AWS (S3, Lambda, Glue, Athena, IAM)
 * **Data Engineering:** Python, Pandas, ETL Pipelines, Parquet, Data Partitioning
 * **Database & Analytics:** SQL, Time-Series Analysis, Unit Economics (AOV, CLV)
 * **Frontend/Visualization:** Plotly Dash, HTML/CSS (Tailwind)
 
 ## [GreenPlate](https://github.com/luyandazuma/greenplate)
-The GreenPlate application utilizes a serverless AWS architecture where a static frontend hosted on S3 and delivered via CloudFront interacts with a Python-based backend API on Lambda and API Gateway, which persists data in DynamoDB tables and is monitored by CloudWatch.
+The GreenPlate application utilizes a serverless AWS architecture where a static frontend hosted on S3 and delivered via CloudFront interacts with a Python-based backend API on Lambda and API Gateway, which persists data in DynamoDB tables and is monitored by CloudWatch. <br>
 **Tech:** <br>
 * **Frontend:** HTML5, CSS3 (Tailwind CSS), Vanilla JavaScript <br>
 * **Backend:** Python 3.11, Flask, Boto3 <br>
