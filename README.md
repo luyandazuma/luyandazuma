@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=4A7D8A&center=true&vCenter=true&width=650&lines=Hi+there,+I+am+Luyanda+☁️;Welcome+to+my+GitHub+Profile!" />
 </p>
@@ -6,8 +5,8 @@
 **Aspiring Cloud Infrastructure Engineer**
 
 📍 Johannesburg, South Africa   
-🌱 Currently learning: AWS, Google Cloud, Azure  
-💬 Ask me about: Python, Terraform, Linux, AWS
+🌱 Currently learning: AWS, Azure, Google Cloud Platform  
+💬 Ask me about: Python, Terraform, Linux, AWS, Azure
 
 ---
 
@@ -27,9 +26,25 @@
 ---
 
 ## 🔧 Featured projects
+## [AWS-Online-Retail-Data-Lake](https://github.com/luyandazuma/aws-online-retail-datalake)
+End-to-end, serverless Data Lake built on AWS, designed to process and analyze global retail transaction data. Engineered with a business-first mindset, the architecture focuses on resource optimization, automated data quality checks, and delivering actionable executive insights.
+**Tech:**
+* **Cloud Infrastructure:** AWS (S3, Lambda, Glue, Athena, IAM)
+* **Data Engineering:** Python, Pandas, ETL Pipelines, Parquet, Data Partitioning
+* **Database & Analytics:** SQL, Time-Series Analysis, Unit Economics (AOV, CLV)
+* **Frontend/Visualization:** Plotly Dash, HTML/CSS (Tailwind)
+
+## [GreenPlate](https://github.com/luyandazuma/greenplate)
+The GreenPlate application utilizes a serverless AWS architecture where a static frontend hosted on S3 and delivered via CloudFront interacts with a Python-based backend API on Lambda and API Gateway, which persists data in DynamoDB tables and is monitored by CloudWatch.
+**Tech:** <br>
+* **Frontend:** HTML5, CSS3 (Tailwind CSS), Vanilla JavaScript <br>
+* **Backend:** Python 3.11, Flask, Boto3 <br>
+* **Cloud (AWS):** Lambda, API Gateway, DynamoDB, S3, CloudFront, IAM, CloudWatch <br>
+* **DevOps:** Terraform, GitHub Actions, AWS CLI <br>
+
 ### [Portfolio Website](https://github.com/luyandazuma/portfolio-a)
 A personal that documents my journey in the tech space thus far. <br>
-**Tech:** Tailwind · Netlify · HTML · CSS · JavaScript 
+**Tech:** HTML · JavaScript · Tailwind CSS · Netlify
 
 ### [MuseMind](https://github.com/luyandazuma/AIPoemGenerator)
 AI-powered poem generator that transforms your thoughts and emotions into expressive poetry. Choose from one of the three themes - LoveLines, SoulScript, and MoodVerse - input your feelings, and let AI translate emotion into thoughtful art.  
