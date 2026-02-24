@@ -70,10 +70,6 @@ AI-powered platform for CV evaluation and career recommendation.
  • [Personal Porfolio](https://portfolio-lsz.netlify.app/)
 
 ---
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luyandazuma&show_icons=true&theme=dark)
-
 ## 📫 Connect with me
 Email: luyanda.s.zuma@gmail.com
 
